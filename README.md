@@ -112,6 +112,7 @@ Actual values:
 <img width="703" height="570" alt="image" src="https://github.com/user-attachments/assets/2057127d-22d5-4b78-8a42-a7bb157b0ff1" />
 
 <img width="703" height="567" alt="image" src="https://github.com/user-attachments/assets/018b2522-cdcf-4352-a8a2-742636cdba34" />
+
 ```
 Mean Squared Error (MSE) = 25.463280738222547
 Mean Absolute Error (MAE) = 4.691397441397438
